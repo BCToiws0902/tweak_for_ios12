@@ -1,34 +1,15 @@
 Package: com.bctoi.bctweaks
 Version: 1.0.0-1+debug
-Architecture: iphoneos-arm64
-Maintainer: BCToi
-Installed-Size: 12500
-Depends: mobilesubstrate, preferenceloader
-Provides: com.opa334.ccsupport
-Filename: debs/com.bctoi.bctweaks_1.0.0-1+debug_iphoneos-arm64.deb
-Size: 3141998
-MD5sum: c576f26fe1bc0e2ed0684239b999486d
-SHA1: 0a76f5bce49d95dbc7b1f35c59c970368d10410a
-SHA256: b6ed74118c1b527b9ab22a63573a0253179e47c024c4074de01f66a01d936e28
-Section: Tweaks
-Description: All-in-one tweaks by BCToi
-Author: BCToi
-Name: BCTweaks
-
-Package: com.bctoi.bctweaks
-Version: 1.0.0-1+debug
 Architecture: iphoneos-arm
 Maintainer: BCToi
-Installed-Size: 12500
-Depends: mobilesubstrate, preferenceloader
-Provides: com.opa334.ccsupport
+Installed-Size: 11644
+Depends: firmware (>= 11.0)
 Filename: debs/com.bctoi.bctweaks_1.0.0-1+debug_iphoneos-arm.deb
-Size: 3141996
-MD5sum: 28de66617c74e25abdcbc7a0c0e34b62
-SHA1: e59d6a696ef028b56278add0385aa0bb6177b5ef
-SHA256: 024e2ee874e9d602b72d6bf8ac93ac427adf7ba58032a522a068dba27c97d077
+Size: 3141934
+MD5sum: 5f4703589dd9486848f86f97e82deeff
+SHA1: adf2b44c1fa241e25b92592809910498d5cde442
+SHA256: 3961cc6e95e2d90c62108a82ee7fd7a44f00119b6d45ee7113789386cc957ff4
 Section: Tweaks
 Description: All-in-one tweaks by BCToi
 Author: BCToi
 Name: BCTweaks
-
