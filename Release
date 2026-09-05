@@ -6,12 +6,3 @@ Codename: ios
 Architectures: iphoneos-arm iphoneos-arm64
 Components: main
 Description: Kho lưu trữ các tweak iOS của BCT
-MD5Sum:
- dd5b2ef20861d38a74cca950f328f99d 519 Packages
- 79a8bb18eed300d3e2b9303a5fbce48b 402 Packages.bz2
-SHA1:
- 80565bb0709b9a0013ae21a2bee5828aacb67eab 519 Packages
- 45665489a5153b741bdfa8d2bdd6f7b9867bf9c1 402 Packages.bz2
-SHA256:
- 68fbf4b774e509df44b060e6e66738b27a5050820a7c6375cb5ab5dd961a7f9e 519 Packages
- f52ce58a4c0bc9ee13f6becb0c4c42f839d67d6758973dd75cf2d3da79a9d744 402 Packages.bz2
