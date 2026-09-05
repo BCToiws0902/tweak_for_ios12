@@ -5,7 +5,7 @@ Maintainer: BCToi
 Installed-Size: 12500
 Depends: mobilesubstrate, preferenceloader
 Provides: com.opa334.ccsupport
-Filename: ./debs/com.bctoi.bctweaks_1.0.0-1+debug_iphoneos-arm.deb
+Filename: debs/com.bctoi.bctweaks_1.0.0-1+debug_iphoneos-arm.deb
 Size: 3141996
 MD5sum: 28de66617c74e25abdcbc7a0c0e34b62
 SHA1: e59d6a696ef028b56278add0385aa0bb6177b5ef
