@@ -1,8 +1,8 @@
 Origin: Bui Cong Toi Repo
 Label: BCTweaks
 Suite: stable
-Version: 1.0.0
+Version: 1.0.1
 Codename: ios
-Architectures: iphoneos-arm
+Architectures: iphoneos-arm iphoneos-arm64
 Components: main
 Description: Kho luu tru cac tweak iOS cua BCT
