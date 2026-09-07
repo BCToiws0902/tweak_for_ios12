@@ -3,6 +3,22 @@ Label: BCTweaks
 Suite: stable
 Version: 1.0.1
 Codename: ios
-Architectures: iphoneos-arm iphoneos-arm64
+Architectures: iphoneos-arm
 Components: main
 Description: Kho luu tru cac tweak iOS cua BCT
+Date: Mon, 07 Sep 2026 01:22:43 +0000
+MD5Sum:
+ 484ccd258d2c62bcf44120fb5de2052c        519 Packages
+ 3ce08e2e0d050fd3de002c9f6ed3ef02        397 Packages.bz2
+ 526fd1b9cfa24de1fe628ef5f2c6cedb        366 Packages.gz
+ c9bc54b2efafca2fda44fb8a095c3c3a        432 Packages.xz
+SHA1:
+ 32c49fe77a4f87efef3993e47b93f4d6145844bc        519 Packages
+ ad1eeb8359aee0afd69d38ec6b61e54866461241        397 Packages.bz2
+ ff6bd709fb6e98ff78092c3a0a3577b4b1397aec        366 Packages.gz
+ 57440434becdcd151306f6a249f6213b5756149b        432 Packages.xz
+SHA256:
+ 6b50e33969ace160e7796e1f2fe7c8e24c5802d9addfa9dac7202b0cf8d43bcc        519 Packages
+ b0c40c9788334d8fe71e33e77af52f475d9eab8d81e1514b160e499d3aee1fd3        397 Packages.bz2
+ 85c060a38fef4eb5840fef2ca99e8fc2fec1cb5103beb723db4d3284e3d618fe        366 Packages.gz
+ e3c98f7af603ba69dcf2e0c8409af9dec533b1a3a05fea14530de40a75e09422        432 Packages.xz

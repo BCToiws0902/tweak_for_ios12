@@ -1,23 +1,5 @@
 Package: com.bctoi.bctweaks
 Version: 1.0.1
-Architecture: iphoneos-arm64
-Maintainer: BCToi
-Installed-Size: 11644
-Depends: firmware (>= 11.0)
-Replaces: com.opa334.ccsupport
-Provides: com.opa334.ccsupport
-Filename: ./debs/com.bctoi.bctweaks_1.0.1_iphoneos-arm.deb
-Size: 3141976
-MD5sum: 9ad9e565bd33ecb89241f75dfa0e11e3
-SHA1: 0dd940a288a8f51544df88ec4970f41b865398f4
-SHA256: da3f49c6c013107eccb8048ef58739f6e20d9c63a92faa934b57975549cfb828
-Section: Tweaks
-Description: All-in-one tweaks by BCToi
-Author: BCToi
-Name: BCTweaks
-
-Package: com.bctoi.bctweaks
-Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: BCToi
 Installed-Size: 11644
